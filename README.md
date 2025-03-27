@@ -13,4 +13,4 @@ This repository contains **AWS Lambda scripts** for automating cloud cost optimi
 ## Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/aws-cost-optimization.git
+   git clone https://github.com/Sajal072004/Cloud_Cost_Optimizations.git
